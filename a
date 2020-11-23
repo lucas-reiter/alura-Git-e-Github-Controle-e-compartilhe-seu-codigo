@@ -1,0 +1,47 @@
+[33mcommit 7bcc1a4d97d26d6faa26469d78345afbaf503d5c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lucas Reiter <lucas.reiter@senior.com.br>
+Date:   Mon Nov 23 13:49:44 2020 -0300
+
+    Corrigindo nome do curso de Docker
+
+[33mcommit 480823cccc03e646b521ec5d82de1cf0391f114a[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: Lucas Reiter <lucas.reiter@senior.com.br>
+Date:   Mon Nov 23 14:07:21 2020 -0300
+
+    Cursos com letra minuscula
+
+[33mcommit b239a88ec06eb8b13a671027f95fc47df2600ff4[m
+Author: Lucas Reiter <lucas.reiter@senior.com.br>
+Date:   Mon Nov 23 11:37:10 2020 -0300
+
+    Lista no início do título
+
+[33mcommit d133d75bf003837fb852df2406bd6e6947d791d6[m
+Author: Lucas Reiter <lucas.reiter@senior.com.br>
+Date:   Mon Nov 23 11:35:36 2020 -0300
+
+    Alterando título da página
+
+[33mcommit d2eba7bdafc58ea0bdbd8680ef5e5a3db1ddcbe6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+Author: Lucas Felipe Reiter <lucas.reiter@senior.com.br>
+Date:   Wed Oct 28 08:57:41 2020 -0300
+
+    Renomeando curso de Integração Contínua
+
+[33mcommit b7c076c7f7b5b8eab1cb45d9e3fb0f67702d2b37[m
+Author: Lucas Reiter <lucas.reiter@senior.com.br>
+Date:   Tue Oct 27 17:41:00 2020 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 3745f6ebab73127dbdeb3b0cd1b098d93d1f19dd[m
+Author: Lucas Felipe Reiter <lucas.reiter@senior.com.br>
+Date:   Tue Oct 27 15:10:21 2020 -0300
+
+    Acento adicionado no curso de Integração Contínua
+
+[33mcommit 689ddd65b5d5d7973469dbd506ed1f5964b541e6[m
+Author: Lucas Felipe Reiter <lucas.reiter@senior.com.br>
+Date:   Tue Oct 27 15:08:44 2020 -0300
+
+    Criando arquivo index.html com lista de cursos
